@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.funcinput{
+  margin-bottom: 10px;
+  margin-left: 30rem;
+  margin-top: 20px;
+}
+
+.funcsubmit{
+  margin-left: 30rem;
+  padding: 10px;
+  background-color: rgb(8, 0, 255);
+  color: white;
+  font-weight: bold;
+  width: 10rem;
+  border-radius: 10px;
+}
+
+.classBTN{
+  margin-left: 30rem;
+  padding: 10px;
+  background-color: rgb(26, 255, 0);
+  color: white;
+  font-weight: bold;
+  width: 10rem;
+  border-radius: 10px;
+}
+
+.form{
+  text-align: center;
+  margin-right: 50px;
+}
