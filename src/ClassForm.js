@@ -17,7 +17,7 @@ class Classform extends React.Component {
     }
 
     handleLastname(e) {
-        this.setState({Lastname: e.target.value})
+        this.setState({lastname: e.target.value})
     }
 
     handleEmail(e) {
